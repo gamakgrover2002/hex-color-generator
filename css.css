@@ -1,0 +1,19 @@
+
+#container{
+    width: 30vw;
+    height: 20vh;
+    background-color: white;
+    margin-left: 35vw;
+    margin-top: 40vh;
+    border-radius: 10px;
+    text-align: center;
+
+}
+body{
+    background-color: black;
+   
+}
+#inner{
+    width: 100px;
+    height: 200px;
+}
